@@ -1,0 +1,21 @@
+body {
+  font-family: $font-primary;
+  background: $colour-background;
+}
+
+ul {
+  border: 5px solid $colour-ui-primary;
+}
+
+nav {
+  text-align: center;
+  margin: 10px;
+  padding-left: 10px;
+}
+
+form {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 100%;
+  height: auto;
+}

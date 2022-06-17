@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "mappings": "AEAA,AAAA,EAAE,CAAC,EACD,WAAW,EDGE,SAAS,EAAE,UAAU,ECFlC,UAAU,EAAE,MAAM,GACnB;;AAED,AAAA,CAAC,CAAC,EACA,WAAW,EDFE,SAAS,EAAE,UAAU,GCGnC;;ACPD,AAAA,IAAI,CAAC,EACH,WAAW,EFGE,SAAS,EAAE,UAAU,EEFlC,UAAU,EFDQ,OAAO,GEE1B;;AAED,AAAA,EAAE,CAAC,EACD,MAAM,EAAE,GAAG,CAAC,KAAK,CFJC,KAAK,GEKxB",
+    "sources": [
+        "../src/sass/style.scss",
+        "../src/sass/partials/_base.scss",
+        "../src/sass/partials/_typography.scss",
+        "../src/sass/partials/_layout.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
